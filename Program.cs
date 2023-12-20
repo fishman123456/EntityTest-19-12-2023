@@ -34,6 +34,17 @@ namespace EntityTest_19_12_2023
         public string BlockY { get; set; } = "BlockY_f";
         public string BlockZ { get; set; } = "BlockZ_f";
         public string BlockLayer { get; set; } = "BlockLayer_f";
+        public ClassAttrB() { }
+        public ClassAttrB( string blockHandle, string blockName, string blockAttrVal, string blockX, string blockY, string blockZ, string blockLayer)
+        {
+            BlockHandle = blockHandle;
+            BlockName = blockName;
+            BlockAttrVal = blockAttrVal;
+            BlockX = blockX;
+            BlockY = blockY;
+            BlockZ = blockZ;
+            BlockLayer = blockLayer;
+        }
     }
     public class classDbContext : DbContext
     {
@@ -46,7 +57,7 @@ namespace EntityTest_19_12_2023
             Console.WriteLine("База создана");
             using (var ctx = new classDbContext())
             {
-                var stud = new ClassAttrB();
+                var stud = new ClassAttrB("1","2","3","4","5","6","7");
                 ctx.classAttrBs.Add(stud);
                 ctx.SaveChanges();
             }

@@ -12,3 +12,17 @@ D:\Github\EntityTest-19-12-2023\obj\Debug\EntityTest-19-12-2023.exe
 D:\Github\EntityTest-19-12-2023\obj\Debug\EntityTest-19-12-2023.pdb
 D:\Github\EntityTest-19-12-2023\obj\Debug\EntityTest_19_12_2023.Migrations.CreateClassAttrB.resources
 D:\Github\EntityTest-19-12-2023\obj\Debug\EntityTest-19-12-2023.csproj.GenerateResource.cache
+C:\Users\Fishman\Documents\GitHub\EntityTest-19-12-2023\bin\Debug\EntityTest-19-12-2023.exe.config
+C:\Users\Fishman\Documents\GitHub\EntityTest-19-12-2023\bin\Debug\EntityTest-19-12-2023.exe
+C:\Users\Fishman\Documents\GitHub\EntityTest-19-12-2023\bin\Debug\EntityTest-19-12-2023.pdb
+C:\Users\Fishman\Documents\GitHub\EntityTest-19-12-2023\bin\Debug\EntityFramework.dll
+C:\Users\Fishman\Documents\GitHub\EntityTest-19-12-2023\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fishman\Documents\GitHub\EntityTest-19-12-2023\bin\Debug\EntityFramework.xml
+C:\Users\Fishman\Documents\GitHub\EntityTest-19-12-2023\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fishman\Documents\GitHub\EntityTest-19-12-2023\obj\Debug\EntityTest-19-12-2023.csproj.AssemblyReference.cache
+C:\Users\Fishman\Documents\GitHub\EntityTest-19-12-2023\obj\Debug\EntityTest_19_12_2023.Migrations.CreateClassAttrB.resources
+C:\Users\Fishman\Documents\GitHub\EntityTest-19-12-2023\obj\Debug\EntityTest-19-12-2023.csproj.GenerateResource.cache
+C:\Users\Fishman\Documents\GitHub\EntityTest-19-12-2023\obj\Debug\EntityTest-19-12-2023.csproj.CoreCompileInputs.cache
+C:\Users\Fishman\Documents\GitHub\EntityTest-19-12-2023\obj\Debug\EntityTest-19-12-2023.csproj.CopyComplete
+C:\Users\Fishman\Documents\GitHub\EntityTest-19-12-2023\obj\Debug\EntityTest-19-12-2023.exe
+C:\Users\Fishman\Documents\GitHub\EntityTest-19-12-2023\obj\Debug\EntityTest-19-12-2023.pdb
