@@ -35,7 +35,10 @@ namespace EntityTest_19_12_2023
         public string BlockZ { get; set; } = "BlockZ_f";
         public string BlockLayer { get; set; } = "BlockLayer_f";
         public ClassAttrB() { }
-        public ClassAttrB( string blockHandle, string blockName, string blockAttrVal, string blockX, string blockY, string blockZ, string blockLayer)
+        public ClassAttrB( string blockHandle, string blockName, 
+                           string blockAttrVal, string blockX, 
+                           string blockY, 
+                           string blockZ, string blockLayer)
         {
             BlockHandle = blockHandle;
             BlockName = blockName;
