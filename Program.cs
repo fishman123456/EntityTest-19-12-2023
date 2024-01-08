@@ -30,7 +30,7 @@ namespace EntityTest_19_12_2023
         public string BlockHandle { get; set; } = "BlockHandle_f";
         public string BlockName { get; set; } = "BlockName_f";
         public string BlockAttrVal { get; set; } = "BlockAttrVal_f";
-        public string BlockX { get; set; } = "BlockX_f";
+        public string BlockX { get; set; } = "BlockX_f"; 
         public string BlockY { get; set; } = "BlockY_f";
         public string BlockZ { get; set; } = "BlockZ_f";
         public string BlockLayer { get; set; } = "BlockLayer_f";
