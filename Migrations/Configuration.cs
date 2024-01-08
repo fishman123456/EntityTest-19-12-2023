@@ -10,6 +10,7 @@
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
+            ContextKey = "EntityTest_19_12_2023.classDbContext";
         }
 
         protected override void Seed(EntityTest_19_12_2023.classDbContext context)

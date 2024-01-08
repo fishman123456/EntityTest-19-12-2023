@@ -53,9 +53,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Migrations\202312191226437_CreateClassAttrB.cs" />
-    <Compile Include="Migrations\202312191226437_CreateClassAttrB.designer.cs">
-      <DependentUpon>202312191226437_CreateClassAttrB.cs</DependentUpon>
+    <Compile Include="Migrations\202401081326306_InitialCreate.cs" />
+    <Compile Include="Migrations\202401081326306_InitialCreate.designer.cs">
+      <DependentUpon>202401081326306_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202401081331156_aith.cs" />
+    <Compile Include="Migrations\202401081331156_aith.designer.cs">
+      <DependentUpon>202401081331156_aith.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202401081333112_2032.cs" />
+    <Compile Include="Migrations\202401081333112_2032.designer.cs">
+      <DependentUpon>202401081333112_2032.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202401081355560_ay.cs" />
+    <Compile Include="Migrations\202401081355560_ay.designer.cs">
+      <DependentUpon>202401081355560_ay.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Program.cs" />
@@ -66,8 +78,17 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202312191226437_CreateClassAttrB.resx">
-      <DependentUpon>202312191226437_CreateClassAttrB.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202401081326306_InitialCreate.resx">
+      <DependentUpon>202401081326306_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202401081331156_aith.resx">
+      <DependentUpon>202401081331156_aith.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202401081333112_2032.resx">
+      <DependentUpon>202401081333112_2032.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202401081355560_ay.resx">
+      <DependentUpon>202401081355560_ay.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

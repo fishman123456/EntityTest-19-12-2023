@@ -7,13 +7,13 @@ namespace EntityTest_19_12_2023.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.4.4")]
-    public sealed partial class CreateClassAttrB : IMigrationMetadata
+    public sealed partial class ay : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(CreateClassAttrB));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(ay));
         
         string IMigrationMetadata.Id
         {
-            get { return "202312191226437_CreateClassAttrB"; }
+            get { return "202401081355560_ay"; }
         }
         
         string IMigrationMetadata.Source

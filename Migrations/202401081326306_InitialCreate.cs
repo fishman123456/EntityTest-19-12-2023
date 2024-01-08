@@ -3,7 +3,7 @@
     using System;
     using System.Data.Entity.Migrations;
     
-    public partial class CreateClassAttrB : DbMigration
+    public partial class InitialCreate : DbMigration
     {
         public override void Up()
         {
@@ -19,6 +19,7 @@
                         BlockY = c.String(),
                         BlockZ = c.String(),
                         BlockLayer = c.String(),
+                        BlockXor = c.String(),
                     })
                 .PrimaryKey(t => t.id);
             
